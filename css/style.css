@@ -1,4 +1,13 @@
 body{
+    color: #000000;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container{
+    background-color: aliceblue;
+    width: 550px;
+    height: 350px;
+    border-radius: 5px 5px 5px 5px;
+    border-color: black;
 }
