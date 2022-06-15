@@ -5,6 +5,7 @@ body{
 }
 
 #contenedor{
+    color: red;
     text-align: center;
     background-color: aliceblue;
     width: 100%;
