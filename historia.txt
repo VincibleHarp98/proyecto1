@@ -1,5 +1,4 @@
 tengo 24 años
 
 Estoy aprendiendo a usar git
-
-Hoy hablaremos de su vida y historia laboral
+ Jugaremos videojuegos
