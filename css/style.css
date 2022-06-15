@@ -4,8 +4,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#contenedor{
-    color: #000000;
+#cabezera{
+    color: #000;
     text-align: center;
     background-color: aliceblue;
     width: 100%;
